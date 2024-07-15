@@ -1,9 +1,9 @@
 package javaPro;
 
-public class Sample {
+public class Sort {
 
 	public static void main(String[] args) {
-		System.out.println("송세호");
+		// TODO Auto-generated method stub
 
 	}
 
